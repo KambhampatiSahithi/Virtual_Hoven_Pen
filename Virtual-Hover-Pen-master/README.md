@@ -21,5 +21,4 @@
 - Run the following:
 - ```python virtualhoverpen.py```
 
-### Contributors:
-- [Sharanya Mukherjee](https://github.com/sharanya02)
+
